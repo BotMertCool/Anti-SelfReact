@@ -1,0 +1,16 @@
+{
+    "name": "testing",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "discord.js": "^14.15.3"
+    }
+}
